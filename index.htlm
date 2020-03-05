@@ -1,0 +1,49 @@
+<!DOCTYPE html PUBLIC>
+<html>
+<head>
+	<title>💸 The Best Profile 💸</title>
+	<script src="https://kit.fontawesome.com/2993e0f7d3.js" crossorigin="anonymous"></script>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+	<body>
+		<div class="container">
+			<div class="card">
+				<h1>Welcome on My profile ;)</h1>
+				<p>
+				<img src="https://media-exp1.licdn.com/dms/image/C4E03AQF_vbAnaOIb2g/profile-displayphoto-shrink_200_200/0?e=1587600000&v=beta&t=RYDO_WVmKb2u9Xmj4GfYiQDXhr7Gejwma-6U23bLT8M"> 
+				<p>Before I want warn you because I put some little jokes in my web site and I hope you will laught at it. I enjoye playing volleyball and going out with my fiends I also love watch movies that's why I create my youtube chanel 
+				<p>👇👇👇</p>
+				<p><a href="https://www.youtube.com/user/PewDiePie"target="blank">My youtube channel</a></p>
+			</div>		
+
+			<div class="card">
+				<h2>Volleyball 🏐</h2>
+				<p>I play <strong>volleyball</strong> since 13 yo</p>
+			</div>
+				
+			<div class="card">
+				<h2>Football ⚽</h2>
+				<p>I'm a big fan of <strong>PSG</strong></p>
+			</div>
+				
+			<div class="card">
+				<h2>Cars 🏎‍️</h2>
+				<p>I have a small passion for <strong>cars</strong></p>
+			</div>
+				
+			<div class="card">
+				<h2>Follow me</h2>
+				<ul class="list-inline">
+					<li>
+						<a href="https://www.facebook.com/ElonMuskOficial/"target="blank"><i class="fab fa-facebook-square"></i></a></li>
+					<li>
+						<a href="https://twitter.com/realdonaldtrump"target="blank"><i class="fab fa-twitter-square"></i></a></li>
+					<li>
+						<a href="https://www.instagram.com/emrata/"target="blank"><i class="fab fa-instagram-square"></i></a></li>
+				</ul>
+			</div>
+		</div>
+						
+	</body>
+
+</html>
